@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-04T14:30:55 GST" name="Default suite" finished-at="2024-10-04T14:31:16 GST" duration-ms="20503">
+    <groups>
+    </groups>
+    <test started-at="2024-10-04T14:30:55 GST" name="Default test" finished-at="2024-10-04T14:31:16 GST" duration-ms="20503">
+      <class name="MumzworldTest.AddProductsToCart">
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:MumzworldTest.AddProductsToCart@ef9296d]" started-at="2024-10-04T14:30:55 GST" name="initializeDriver" finished-at="2024-10-04T14:30:58 GST" duration-ms="2291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="AddProductAndCheckout()[pri:0, instance:MumzworldTest.AddProductsToCart@ef9296d]" started-at="2024-10-04T14:30:58 GST" name="AddProductAndCheckout" finished-at="2024-10-04T14:31:16 GST" duration-ms="18072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddProductAndCheckout -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:MumzworldTest.AddProductsToCart@ef9296d]" started-at="2024-10-04T14:31:16 GST" name="tearDown" finished-at="2024-10-04T14:31:16 GST" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- MumzworldTest.AddProductsToCart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
